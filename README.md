@@ -64,7 +64,7 @@ Programın çalışabilmesi için `city.jpg` dosyası proje çalışma klasörü
 
 
 
-Program, sonuçları `results` klasörüne kaydeder.
+Programın oluşturduğu sonuç görselleri GitHub deposunda proje dosyalarıyla birlikte sunulmuştur.
 
 
 
